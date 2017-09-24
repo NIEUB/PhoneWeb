@@ -1,1 +1,12 @@
-#TITLE {font-size: 120px;}
+.TITLE {
+  text-align: center;
+color: white;
+font-weight: normal;
+font-family: verdana;
+  font-size: 50px;}
+
+html {background-color: black;}
+
+.link { font-size: 16px;
+text-align: center;}
+.video {image-orientation: center;}

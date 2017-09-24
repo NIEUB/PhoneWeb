@@ -1,0 +1,11 @@
+.TITLE {
+  text-align: center;
+color: white;
+font-weight: normal;
+font-family: verdana;
+  font-size: 50px;}
+
+html {background-color: black;}
+
+.link { font-size: 14;
+text-align: center;}
